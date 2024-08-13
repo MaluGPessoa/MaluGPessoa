@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Maria Luisa 😁
 
  <div>
-  <a href="https://github.com/MaluGPessoa">
+  <a href="https://github.com/MaluGPessoa"
    
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaluGPessoa&show_icons=true_private=true&include_all_commits=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaluGPessoa&layout=compact&theme=radical&random=12345)](https://github.com/MaluGPessoa/github-readme-stats)
